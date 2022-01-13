@@ -1,0 +1,55 @@
+body {
+  background-color:grey;
+  margin:0px;
+
+}
+span {
+  padding:17px;
+  background-color:white;
+
+
+}
+nav {
+  padding:17px;
+  background-color:white;
+
+}
+#logo-firm {
+  width:80px;
+  height:40px;
+
+}
+.span-style {
+  font-weight:100;
+  color:grey;
+  font-size:25px;
+  float:right;
+  position:relative;
+  bottom:9px;
+  font-family:fantasy;
+  cursor:grab;
+
+}
+p {
+  font-size:20px;
+  padding-left:150px;
+  padding-top:80px;
+  line-height:1.5;
+
+
+}
+#ocean-img {
+  width:300px;
+  height:280px;
+  float:left;
+  margin-right:15px;
+  cursor:help;
+
+}
+#desert-img {
+  width:300px;
+  height:280px;
+  float:right;
+  margin-right:15px;
+  cursor:crosshair;
+}
